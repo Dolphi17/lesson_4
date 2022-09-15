@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@font-face{
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-ExtraBold.woff2") format("woff2"), url("../fonts/Larsseit-ExtraBold.woff") format("woff");
+    font-display: swap;
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face{
+    font-family: "Larsseit";
+    src: url("../fonts/Larsseit-Medium.woff2") format("woff2"), url("../fonts/Larsseit-Medium.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family: "lato";
+    src: url("../fonts/latoblack.woff2") format("woff2"), url("../fonts/latoblack.woff") format("woff");
+    font-display: swap;
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face{
+    font-family: "lato";
+    src: url("../fonts/latomediumitalic.woff2") format("woff2"), url("../fonts/latomediumitalic.woff") format("woff");
+    font-display: swap;
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face{
+    font-family: "lato";
+    src: url("../fonts/latosemibold.woff2") format("woff2"), url("../fonts/latosemibold.woff") format("woff");
+    font-display: swap;
+    font-weight: 600;
+    font-style: normal;
+}
+h1{
+color: blueviolet;
+font-family: "lato";
+font-weight: 900;  
+}
+div.introduction{
+    color: rgb(144, 5, 187);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+div.content{
+    color: blue;
+    font-family: "Larsseit";
+    font-weight: 500;
+}
+.content h4{
+    color: orange;
+    font-family: "lato";
+    font-weight: 600;
+}
+#biography{
+    color: darkgreen;
+    font-family: "lato";
+    font-weight: 500;
+    font-style: italic;
+}
+#biography h2{
+    color: goldenrod;
+    font-family: "Larsseit";
+    font-weight: 800;
+    font-style: normal;
+}
+#biography h3{
+    color: goldenrod;
+    font-family: "Lato";
+    font-weight: 600;
+    font-style: normal;
+}
+#oeuvre>p{
+    color: rgb(144, 5, 187);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+#instrument>p{
+    color: rgb(144, 5, 187);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+h2{
+    color: rgb(209, 51, 3);
+    font-family: "Larsseit";
+    font-weight: 800;
+    font-style: normal;  
+}
+#artworks ul{
+    color: blue;
+    font-family: "Larsseit";
+    font-weight: 500;
+}
+h3{
+    color: goldenrod;
+    font-family: "Lato";
+    font-weight: 600;
+    font-style: normal;
+}
+footer{
+    color: blue;
+    font-family: "Larsseit";
+    font-weight: 500;
+}
+#processing ul{
+    color: rgb(144, 5, 187);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+#memory ul{
+    color: rgb(144, 5, 187);
+    font-family: "Roboto";
+    font-weight: 400;
+}
